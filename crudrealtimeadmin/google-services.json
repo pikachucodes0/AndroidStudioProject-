@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "49991595106",
+    "project_id": "crudstudentcard1",
+    "storage_bucket": "crudstudentcard1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49991595106:android:512d4d643f16221345cd3b",
+        "android_client_info": {
+          "package_name": "com.example.crudrealtimeadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABAMrd1MLrqQZNYPF0TjVytZdBP7mg-_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49991595106:android:6163d4a1b30726da45cd3b",
+        "android_client_info": {
+          "package_name": "com.example.crudrealtimeclient"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABAMrd1MLrqQZNYPF0TjVytZdBP7mg-_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
